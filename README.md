@@ -6,3 +6,7 @@ This repository contains:
  - The code for creating the dataset for training the classifiers and the dataset.
  - The optimization algorithms using the trained models for predicting the transition point and two models (Decision Tree and SVM) 
  - Some optimization results and an extended analysis of the results.
+
+*** IMPORTANT ***
+The model (Decision Tree) has been compressed into multiple volumes to satisfy Github’s file size limit.
+Please unzip before running the ML-hybrid.
